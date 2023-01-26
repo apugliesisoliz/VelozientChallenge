@@ -8,6 +8,7 @@ About the Code and Framework:
 -program.cs is just the class that executes the TripOrganizer class and shows the results.
 -inside the project is a Input.txt file, pls copy that file on %SolutionDirectory%/bin/Debug/net6.0/Input.txt
 
+
 About the solution provided:
 
 I organize the trips for drones based on this assumptions (extracted from the PDF document):
